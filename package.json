@@ -1,0 +1,21 @@
+{
+  "name": "@connordoner/monzo-notion-sync",
+  "version": "0.1.0",
+  "description": "AWS Lambda function for one-way sync of Monzo transactions into Notion.",
+  "keywords": ["banking", "finance", "monzo", "notion"],
+  "homepage": "https://github.com/connordoner/monzo-notion-sync#readme",
+  "bugs": {
+    "url": "https://github.com/connordoner/monzo-notion-sync/issues/new",
+    "email": "monzo-notion-sync+bugs@connorgurney.me.uk"
+  },
+  "license": "WTFPL",
+  "author": {
+    "name": "Connor Gurney",
+    "email": "me@connorgurney.me.uk",
+    "url": "https://www.connorgurney.me.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connordoner/monzo-notion-sync.git"
+  }
+}
